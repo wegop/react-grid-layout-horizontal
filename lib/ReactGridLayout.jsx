@@ -59,7 +59,7 @@ import type { Props, DefaultProps } from "./ReactGridLayoutPropTypes";
 
 // End Types
 
-const layoutClassName = "react-grid-layout";
+const layoutClassName = "react-grid-layout-horizontal";
 let isFirefox = false;
 // Try...catch will protect from navigator not existing (e.g. node) or a bad implementation of navigator
 try {

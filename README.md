@@ -1,11 +1,11 @@
-# React-Grid-Layout
+# react-grid-layout-horizontal
 
-[![travis build](https://travis-ci.org/STRML/react-grid-layout.svg?branch=master)](https://travis-ci.org/STRML/react-grid-layout)
-[![CDNJS](https://img.shields.io/cdnjs/v/react-grid-layout.svg)](https://cdnjs.com/libraries/react-grid-layout)
-[![npm package](https://img.shields.io/npm/v/react-grid-layout.svg?style=flat-square)](https://www.npmjs.org/package/react-grid-layout)
-[![npm downloads](https://img.shields.io/npm/dt/react-grid-layout.svg?maxAge=2592000)]()
+[![travis build](https://travis-ci.org/STRML/react-grid-layout-horizontal.svg?branch=master)](https://travis-ci.org/STRML/react-grid-layout-horizontal)
+[![CDNJS](https://img.shields.io/cdnjs/v/react-grid-layout-horizontal.svg)](https://cdnjs.com/libraries/react-grid-layout-horizontal)
+[![npm package](https://img.shields.io/npm/v/react-grid-layout-horizontal.svg?style=flat-square)](https://www.npmjs.org/package/react-grid-layout-horizontal)
+[![npm downloads](https://img.shields.io/npm/dt/react-grid-layout-horizontal.svg?maxAge=2592000)]()
 
-React-Grid-Layout is a grid layout system much like [Packery](http://packery.metafizzy.co/) or
+react-grid-layout-horizontal is a grid layout system much like [Packery](http://packery.metafizzy.co/) or
 [Gridster](http://dsmorse.github.io/gridster.js/), for React.
 
 Unlike those systems, it is responsive and supports breakpoints. Breakpoint layouts can be provided by the user
@@ -17,7 +17,7 @@ RGL is React-only and does not require jQuery.
 
 > GIF from production usage on [BitMEX.com](https://www.bitmex.com)
 
-[**[Demo](https://react-grid-layout.github.io/react-grid-layout/) | [Changelog](/CHANGELOG.md) | [CodeSandbox Editable demo](https://codesandbox.io/s/5wy3rz5z1x?module=%2Fsrc%2FShowcaseLayout.js)**]
+[**[Demo](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/) | [Changelog](/CHANGELOG.md) | [CodeSandbox Editable demo](https://codesandbox.io/s/5wy3rz5z1x?module=%2Fsrc%2FShowcaseLayout.js)**]
 
 ## Table of Contents
 
@@ -37,28 +37,28 @@ RGL is React-only and does not require jQuery.
 
 ## Demos
 
-1. [Showcase](https://react-grid-layout.github.io/react-grid-layout/examples/0-showcase.html)
-1. [Basic](https://react-grid-layout.github.io/react-grid-layout/examples/1-basic.html)
-1. [No Dragging/Resizing (Layout Only)](https://react-grid-layout.github.io/react-grid-layout/examples/2-no-dragging.html)
-1. [Messy Layout Autocorrect](https://react-grid-layout.github.io/react-grid-layout/examples/3-messy.html)
-1. [Layout Defined on Children](https://react-grid-layout.github.io/react-grid-layout/examples/4-grid-property.html)
-1. [Static Elements](https://react-grid-layout.github.io/react-grid-layout/examples/5-static-elements.html)
-1. [Adding/Removing Elements](https://react-grid-layout.github.io/react-grid-layout/examples/6-dynamic-add-remove.html)
-1. [Saving Layout to LocalStorage](https://react-grid-layout.github.io/react-grid-layout/examples/7-localstorage.html)
-1. [Saving a Responsive Layout to LocalStorage](https://react-grid-layout.github.io/react-grid-layout/examples/8-localstorage-responsive.html)
-1. [Minimum and Maximum Width/Height](https://react-grid-layout.github.io/react-grid-layout/examples/9-min-max-wh.html)
-1. [Dynamic Minimum and Maximum Width/Height](https://react-grid-layout.github.io/react-grid-layout/examples/10-dynamic-min-max-wh.html)
-1. [No Vertical Compacting (Free Movement)](https://react-grid-layout.github.io/react-grid-layout/examples/11-no-vertical-compact.html)
-1. [Prevent Collision](https://react-grid-layout.github.io/react-grid-layout/examples/12-prevent-collision.html)
-1. [Error Case](https://react-grid-layout.github.io/react-grid-layout/examples/13-error-case.html)
-1. [Toolbox](https://react-grid-layout.github.io/react-grid-layout/examples/14-toolbox.html)
-1. [Drag From Outside](https://react-grid-layout.github.io/react-grid-layout/examples/15-drag-from-outside.html)
-1. [Bounded Layout](https://react-grid-layout.github.io/react-grid-layout/examples/16-bounded.html)
-1. [Resizable Handles](https://react-grid-layout.github.io/react-grid-layout/examples/17-resizable-handles.html)
-1. [Scaled Containers](https://react-grid-layout.github.io/react-grid-layout/examples/18-scale.html)
-1. [Allow Overlap](https://react-grid-layout.github.io/react-grid-layout/examples/19-allow-overlap.html)
+1. [Showcase](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/0-showcase.html)
+1. [Basic](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/1-basic.html)
+1. [No Dragging/Resizing (Layout Only)](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/2-no-dragging.html)
+1. [Messy Layout Autocorrect](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/3-messy.html)
+1. [Layout Defined on Children](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/4-grid-property.html)
+1. [Static Elements](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/5-static-elements.html)
+1. [Adding/Removing Elements](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/6-dynamic-add-remove.html)
+1. [Saving Layout to LocalStorage](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/7-localstorage.html)
+1. [Saving a Responsive Layout to LocalStorage](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/8-localstorage-responsive.html)
+1. [Minimum and Maximum Width/Height](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/9-min-max-wh.html)
+1. [Dynamic Minimum and Maximum Width/Height](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/10-dynamic-min-max-wh.html)
+1. [No Vertical Compacting (Free Movement)](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/11-no-vertical-compact.html)
+1. [Prevent Collision](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/12-prevent-collision.html)
+1. [Error Case](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/13-error-case.html)
+1. [Toolbox](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/14-toolbox.html)
+1. [Drag From Outside](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/15-drag-from-outside.html)
+1. [Bounded Layout](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/16-bounded.html)
+1. [Resizable Handles](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/17-resizable-handles.html)
+1. [Scaled Containers](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/18-scale.html)
+1. [Allow Overlap](https://react-grid-layout-horizontal.github.io/react-grid-layout-horizontal/examples/19-allow-overlap.html)
 
-#### Projects Using React-Grid-Layout
+#### Projects Using react-grid-layout-horizontal
 
 - [BitMEX](https://www.bitmex.com/)
 - [AWS CloudFront Dashboards](https://aws.amazon.com/blogs/aws/cloudwatch-dashboards-create-use-customized-metrics-views/)
@@ -107,16 +107,16 @@ _Know of others? Create a PR to let me know!_
 
 ## Installation
 
-Install the React-Grid-Layout [package](https://www.npmjs.org/package/react-grid-layout) package using [npm](https://www.npmjs.com/):
+Install the react-grid-layout-horizontal [package](https://www.npmjs.org/package/react-grid-layout-horizontal) package using [npm](https://www.npmjs.com/):
 
 ```bash
-npm install react-grid-layout
+npm install react-grid-layout-horizontal
 ```
 
 Include the following stylesheets in your application:
 
 ```
-/node_modules/react-grid-layout/css/styles.css
+/node_modules/react-grid-layout-horizontal/css/styles.css
 /node_modules/react-resizable/css/styles.css
 ```
 
@@ -130,7 +130,7 @@ produce a grid with three items where:
 - users will be able to freely drag and resize item `c`
 
 ```js
-import GridLayout from "react-grid-layout";
+import GridLayout from "react-grid-layout-horizontal";
 
 class MyFirstGrid extends React.Component {
   render() {
@@ -160,7 +160,7 @@ class MyFirstGrid extends React.Component {
 You may also choose to set layout properties directly on the children:
 
 ```js
-import GridLayout from "react-grid-layout";
+import GridLayout from "react-grid-layout-horizontal";
 
 class MyFirstGrid extends React.Component {
   render() {
@@ -183,7 +183,7 @@ class MyFirstGrid extends React.Component {
 
 ### Usage without Browserify/Webpack
 
-A module usable in a `<script>` tag is included [here](/dist/react-grid-layout.min.js). It uses a UMD shim and
+A module usable in a `<script>` tag is included [here](/dist/react-grid-layout-horizontal.min.js). It uses a UMD shim and
 excludes `React`, so it must be otherwise available in your application, either via RequireJS or on `window.React`.
 
 ### Responsive Usage
@@ -191,7 +191,7 @@ excludes `React`, so it must be otherwise available in your application, either 
 To make RGL responsive, use the `<ResponsiveReactGridLayout>` element:
 
 ```js
-import { Responsive as ResponsiveGridLayout } from "react-grid-layout";
+import { Responsive as ResponsiveGridLayout } from "react-grid-layout-horizontal";
 
 class MyResponsiveGrid extends React.Component {
   render() {
@@ -231,7 +231,7 @@ positions on drag events. In simple cases a HOC `WidthProvider` can be used to a
 width upon initialization and window resize events.
 
 ```js
-import { Responsive, WidthProvider } from "react-grid-layout";
+import { Responsive, WidthProvider } from "react-grid-layout-horizontal";
 
 const ResponsiveGridLayout = WidthProvider(Responsive);
 
@@ -369,7 +369,7 @@ isDroppable: ?boolean = false,
 // 'ne' - Northeast handle (top-right)
 resizeHandles: ?Array<'s' | 'w' | 'e' | 'n' | 'sw' | 'nw' | 'se' | 'ne'> = ['se'],
 // Custom component for resize handles
-// See `handle` as used in https://github.com/react-grid-layout/react-resizable#resize-handle
+// See `handle` as used in https://github.com/react-grid-layout-horizontal/react-resizable#resize-handle
 // Your component should have the class `.react-resizable-handle`, or you should add your custom
 // class to the `draggableCancel` prop.
 resizeHandle?: ReactElement<any> | ((resizeHandleAxis: ResizeHandleAxis, ref: ReactRef<HTMLElement>) => ReactElement<any>),

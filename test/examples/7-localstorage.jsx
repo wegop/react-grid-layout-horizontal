@@ -1,5 +1,5 @@
 import React from "react";
-import RGL, { WidthProvider } from "react-grid-layout";
+import RGL, { WidthProvider } from "react-grid-layout-horizontal";
 
 const ReactGridLayout = WidthProvider(RGL);
 const originalLayout = getFromLS("layout") || [];

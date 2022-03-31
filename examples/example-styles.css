@@ -4,7 +4,7 @@ body {
 #content {
   width: 100%;
 }
-.react-grid-layout {
+.react-grid-layout-horizontal {
   background: #eee;
   margin-top: 10px;
 }

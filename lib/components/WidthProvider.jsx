@@ -27,7 +27,7 @@ type ComposedProps<Config> = {|
   width?: number
 |};
 
-const layoutClassName = "react-grid-layout";
+const layoutClassName = "react-grid-layout-horizontal";
 
 /*
  * A simple HOC that provides facility for listening to container resizes.

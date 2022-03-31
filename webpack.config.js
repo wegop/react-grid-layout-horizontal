@@ -9,7 +9,7 @@ module.exports = {
   },
   context: __dirname,
   entry: {
-    "react-grid-layout": "./index-dev.js"
+    "react-grid-layout-horizontal": "./index-dev.js"
   },
   output: {
     path: __dirname + "/dist",

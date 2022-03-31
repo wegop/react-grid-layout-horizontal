@@ -329,7 +329,7 @@ exports[`Lifecycle tests <ReactGridLayout> Basic Render 1`] = `
       innerRef={
         Object {
           "current": <div
-            class="react-grid-layout layout"
+            class="react-grid-layout-horizontal layout"
             style="height: 610px;"
           >
             <div
@@ -774,7 +774,7 @@ exports[`Lifecycle tests <ReactGridLayout> Basic Render 1`] = `
       width={1280}
     >
       <div
-        className="react-grid-layout layout"
+        className="react-grid-layout-horizontal layout"
         onDragEnter={[Function]}
         onDragLeave={[Function]}
         onDragOver={[Function]}
@@ -4411,7 +4411,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
       innerRef={
         Object {
           "current": <div
-            class="react-grid-layout layout"
+            class="react-grid-layout-horizontal layout"
             style="height: 610px;"
           >
             <div
@@ -4856,7 +4856,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
       width={1280}
     >
       <div
-        className="react-grid-layout layout"
+        className="react-grid-layout-horizontal layout"
         onDragEnter={[Function]}
         onDragLeave={[Function]}
         onDragOver={[Function]}
@@ -8475,7 +8475,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
     rowHeight={30}
   >
     <div
-      className="layout react-grid-layout"
+      className="layout react-grid-layout-horizontal"
     />
   </WidthProvider>
 </BasicLayout>
@@ -8533,7 +8533,7 @@ exports[`Lifecycle tests <ReactGridLayout> data-grid Creates layout based on pro
   width={1200}
 >
   <div
-    className="react-grid-layout layout"
+    className="react-grid-layout-horizontal layout"
     onDragEnter={[Function]}
     onDragLeave={[Function]}
     onDragOver={[Function]}
@@ -9123,7 +9123,7 @@ exports[`Lifecycle tests <ReactGridLayout> data-grid Null items in list 1`] = `
   width={1200}
 >
   <div
-    className="react-grid-layout layout"
+    className="react-grid-layout-horizontal layout"
     onDragEnter={[Function]}
     onDragLeave={[Function]}
     onDragOver={[Function]}
@@ -9784,7 +9784,7 @@ exports[`Lifecycle tests <ResponsiveReactGridLayout> Basic Render 1`] = `
         innerRef={
           Object {
             "current": <div
-              class="react-grid-layout layout"
+              class="react-grid-layout-horizontal layout"
               style="height: 1010px;"
             >
               <div
@@ -10359,7 +10359,7 @@ exports[`Lifecycle tests <ResponsiveReactGridLayout> Basic Render 1`] = `
           innerRef={
             Object {
               "current": <div
-                class="react-grid-layout layout"
+                class="react-grid-layout-horizontal layout"
                 style="height: 1010px;"
               >
                 <div
@@ -11157,7 +11157,7 @@ exports[`Lifecycle tests <ResponsiveReactGridLayout> Basic Render 1`] = `
           width={1280}
         >
           <div
-            className="react-grid-layout layout"
+            className="react-grid-layout-horizontal layout"
             onDragEnter={[Function]}
             onDragLeave={[Function]}
             onDragOver={[Function]}

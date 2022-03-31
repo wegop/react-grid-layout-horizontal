@@ -44,18 +44,18 @@ module.exports = {
   devServer: {
     compress: true,
     port: 4002,
-    open: "/react-grid-layout/examples/0-showcase.html",
+    open: "/react-grid-layout-horizontal/examples/0-showcase.html",
     client: {
       overlay: true
     },
     static: {
       directory: ".",
-      publicPath: "/react-grid-layout"
+      publicPath: "/react-grid-layout-horizontal"
     }
   },
   resolve: {
     extensions: [".js", ".jsx"],
-    alias: { "react-grid-layout": __dirname + "/index-dev.js" }
+    alias: { "react-grid-layout-horizontal": __dirname + "/index-dev.js" }
   }
 };
 
